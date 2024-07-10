@@ -163,3 +163,44 @@ margin: 0px 385px;
 }
 
 /* my-current-target-end */
+
+/* need-support */
+
+#need-support{
+    height: 413px;
+    background-image:
+     url("./assets/handshake.jpg");
+    background-size: cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.2)
+    rgba(0, 0, 0, 0.2)
+    rgba(0, 0, 0, 0.2));
+    background-position: center;
+}
+.input-submit{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+#form{
+    width:548px ;
+    padding: 10px;
+    font-family: "Azeret Mono", monospace;
+    font-size: 20px;
+    border: none;
+    border-radius: 7px;
+}
+#button{
+    width:128px ;
+    padding: 10px;
+    font-family: "Azeret Mono", monospace;
+    font-size: 20px;
+    border: none;
+    border-radius: 7px;
+}
+
+
+
+
+
+
+/* need-support-end */

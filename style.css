@@ -12,6 +12,7 @@
     background-position: center;
     margin-top: 135px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
@@ -159,6 +160,7 @@ margin: 0px 385px;
 .html{
     width: 364px;
     padding: 20px;
+    border-radius: 10px;
     
 }
 
@@ -175,6 +177,8 @@ margin: 0px 385px;
     rgba(0, 0, 0, 0.2)
     rgba(0, 0, 0, 0.2));
     background-position: center;
+    border-radius: 10px;
+    margin: 0px 171px;
 }
 .input-submit{
     display: flex;
@@ -220,13 +224,5 @@ margin: 0px 385px;
     justify-content: flex-end;
     gap: 30px;
 }
-
-
-
-
-
-
-
-
 
 /* footer-section-end */

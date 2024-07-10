@@ -139,7 +139,7 @@ margin: 0px 385px;
 /* my-inspiration */
 #my-inspiration{
     width: 1140px;
-    height: 1000px;
+    height: 800px;
     margin: 40px 188px;
 }
 
@@ -198,9 +198,35 @@ margin: 0px 385px;
     border-radius: 7px;
 }
 
-
-
-
-
-
 /* need-support-end */
+
+/* footer-section */
+#footer{
+    height: 50px;
+    background-color: rgba(13, 19, 33, 0.03);
+    margin: 90px 0px 0px 0px;
+    padding:40px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left-part{
+    font-family: "Azeret Mono", monospace;
+    font-size: 20px;
+    font-weight: 700; 
+}
+.right-part{
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+}
+
+
+
+
+
+
+
+
+
+/* footer-section-end */

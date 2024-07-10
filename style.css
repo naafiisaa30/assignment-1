@@ -151,6 +151,7 @@ margin: 0px 385px;
     width: 1180px;
     height: 560px;
     margin-left: 171px;
+    font-family: "Azeret Mono", monospace;
 }
 .current-target{
     display: flex;

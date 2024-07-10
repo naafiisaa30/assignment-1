@@ -139,19 +139,27 @@ margin: 0px 385px;
 /* my-inspiration */
 #my-inspiration{
     width: 1140px;
-    height: 1400px;
+    height: 1000px;
     margin: 40px 188px;
 }
-.yt-video{
-    width: 1076px;
-}
-
-
-
-
-
-
-
-
 
 /* my-inspiration-end */
+
+/* my-current-target */
+#my-current-target{
+    width: 1180px;
+    height: 560px;
+    margin-left: 171px;
+}
+.current-target{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+.html{
+    width: 364px;
+    padding: 20px;
+    
+}
+
+/* my-current-target-end */
